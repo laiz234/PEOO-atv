@@ -17,8 +17,10 @@ namespace EscolaAPP
         }
         public static List<Aluno> Listar()
         {
+
             Abrir();
             return alunos;
+
         }
         public static void Atualizar(Aluno t)
         {
