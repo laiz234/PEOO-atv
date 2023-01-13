@@ -4,7 +4,7 @@ using System.Text;
 
 namespace EscolaAPP
 {
-    class Aluno
+    public class Aluno
     {
         public int Id { get; set; }
         public string Nome { get; set; }
@@ -12,7 +12,7 @@ namespace EscolaAPP
         public string Email { get; set; }
         public override string ToString()
         {
-            return $"{Id} - {Nome} - {Email}";
+            return $"{Id} - {Nome} - {Matricula} - {Email}";
         }
     }
 }

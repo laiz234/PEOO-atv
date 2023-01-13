@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\laizf\\source\\repos\\EscolaAPP\\EscolaAPP\\EscolaAPP.csproj": {}
+    "C:\\Users\\20201011110032\\Source\\Repos\\PEOO-atv\\EscolaAPP\\EscolaAPP\\EscolaAPP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\laizf\\source\\repos\\EscolaAPP\\EscolaAPP\\EscolaAPP.csproj": {
+    "C:\\Users\\20201011110032\\Source\\Repos\\PEOO-atv\\EscolaAPP\\EscolaAPP\\EscolaAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laizf\\source\\repos\\EscolaAPP\\EscolaAPP\\EscolaAPP.csproj",
+        "projectUniqueName": "C:\\Users\\20201011110032\\Source\\Repos\\PEOO-atv\\EscolaAPP\\EscolaAPP\\EscolaAPP.csproj",
         "projectName": "EscolaAPP",
-        "projectPath": "C:\\Users\\laizf\\source\\repos\\EscolaAPP\\EscolaAPP\\EscolaAPP.csproj",
-        "packagesPath": "C:\\Users\\laizf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laizf\\source\\repos\\EscolaAPP\\EscolaAPP\\obj\\",
+        "projectPath": "C:\\Users\\20201011110032\\Source\\Repos\\PEOO-atv\\EscolaAPP\\EscolaAPP\\EscolaAPP.csproj",
+        "packagesPath": "C:\\Users\\20201011110032\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\20201011110032\\Source\\Repos\\PEOO-atv\\EscolaAPP\\EscolaAPP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\laizf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\20201011110032\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -6,7 +6,7 @@ using System.Xml.Serialization;
 
 namespace EscolaAPP
 {
-    class NAluno
+    public class NAluno
     {
         private static List<Aluno> alunos = new List<Aluno>();
         public static void Inserir(Aluno t)
